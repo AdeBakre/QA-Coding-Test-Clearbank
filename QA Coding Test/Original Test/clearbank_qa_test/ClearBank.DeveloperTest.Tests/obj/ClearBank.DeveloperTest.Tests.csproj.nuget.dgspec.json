@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest.Tests/ClearBank.DeveloperTest.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest.Tests/ClearBank.DeveloperTest.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest.Tests/ClearBank.DeveloperTest.Tests.csproj",
+        "projectName": "ClearBank.DeveloperTest.Tests",
+        "projectPath": "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest.Tests/ClearBank.DeveloperTest.Tests.csproj",
+        "packagesPath": "/Users/adebakre/.nuget/packages/",
+        "outputPath": "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/adebakre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj": {
+                "projectPath": "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
+        "projectName": "ClearBank.DeveloperTest",
+        "projectPath": "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
+        "packagesPath": "/Users/adebakre/.nuget/packages/",
+        "outputPath": "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/adebakre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

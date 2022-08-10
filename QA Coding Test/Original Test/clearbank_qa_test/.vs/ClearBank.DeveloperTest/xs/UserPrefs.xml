@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{A3CA1845-E8EC-4B29-8E5C-F1E69CF73F25}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClearBank.DeveloperTest/Types/AllowedPaymentSchemes.cs">
+    <Files>
+      <File FileName="ClearBank.DeveloperTest.Tests/Tests/PaymentServiceTests.cs" Line="146" Column="10" />
+      <File FileName="ClearBank.DeveloperTest/Types/Account.cs" Line="11" Column="1" />
+      <File FileName="ClearBank.DeveloperTest/Services/PaymentService.cs" Line="1" Column="1" />
+      <File FileName="README.md" Line="1" Column="1" />
+      <File FileName="ClearBank.DeveloperTest/Types/AccountStatus.cs" Line="1" Column="1" />
+      <File FileName="ClearBank.DeveloperTest/Types/AllowedPaymentSchemes.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClearBank.DeveloperTest" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="ClearBank.DeveloperTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Factories" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Types" expanded="True" />
+            </Node>
+            <Node name="ClearBank.DeveloperTest.Tests" expanded="True">
+              <Node name="Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ClearBank.DeveloperTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClearBank.DeveloperTest.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

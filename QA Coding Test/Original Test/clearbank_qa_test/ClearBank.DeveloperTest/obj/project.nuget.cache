@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1kj5KJ6BcY9Cx/goz11OfXvSfJAW3v2HNQ5zt/z1VD4pNEv7JRhrWfWkO9P7YbRK/ylyIRiQfpAt1L6I7mrIJw==",
+  "success": true,
+  "projectFilePath": "/Users/adebakre/_ade_code_projects/_csharp/QA Coding Test/QA Coding Test/Original Test/clearbank_qa_test/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/adebakre/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/adebakre/.nuget/packages/system.configuration.configurationmanager/6.0.0/system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "/Users/adebakre/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/adebakre/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/adebakre/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/Users/adebakre/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/adebakre/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

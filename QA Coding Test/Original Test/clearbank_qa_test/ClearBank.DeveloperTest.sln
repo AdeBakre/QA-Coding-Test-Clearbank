@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32422.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClearBank.DeveloperTest", "ClearBank.DeveloperTest\ClearBank.DeveloperTest.csproj", "{5B180045-B13B-443E-82AF-E6F1D1247111}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClearBank.DeveloperTest.Tests", "ClearBank.DeveloperTest.Tests\ClearBank.DeveloperTest.Tests.csproj", "{A3CA1845-E8EC-4B29-8E5C-F1E69CF73F25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BBDE4CFE-73F6-44F4-9B5A-68DFB215B303}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B180045-B13B-443E-82AF-E6F1D1247111}.Debug|x64.ActiveCfg = Debug|x64
+		{5B180045-B13B-443E-82AF-E6F1D1247111}.Debug|x64.Build.0 = Debug|x64
+		{5B180045-B13B-443E-82AF-E6F1D1247111}.Release|x64.ActiveCfg = Release|Any CPU
+		{5B180045-B13B-443E-82AF-E6F1D1247111}.Release|x64.Build.0 = Release|Any CPU
+		{A3CA1845-E8EC-4B29-8E5C-F1E69CF73F25}.Debug|x64.ActiveCfg = Debug|x64
+		{A3CA1845-E8EC-4B29-8E5C-F1E69CF73F25}.Debug|x64.Build.0 = Debug|x64
+		{A3CA1845-E8EC-4B29-8E5C-F1E69CF73F25}.Release|x64.ActiveCfg = Release|Any CPU
+		{A3CA1845-E8EC-4B29-8E5C-F1E69CF73F25}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {331B8CC2-A6DF-4350-959A-ED086AB4ECC7}
+	EndGlobalSection
+EndGlobal
